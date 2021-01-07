@@ -4,8 +4,8 @@
 **lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi there 👋
-<!--<img align="right" alt="微信公众号" src="https://sm.ms/image/vRpJ4VuWLO6PFqr">-->
-<a href="https://sm.ms/image/vRpJ4VuWLO6PFqr" target="_blank"><img src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg" ></a>
+<img align="right" alt="微信公众号" src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg">
+<a align="right" href="https://sm.ms/image/vRpJ4VuWLO6PFqr" target="_blank"><img src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg" ></a>
  
 ### I'm lex
 - 🌱 Java开发者 世界之大 Java最好 哈哈哈 
