@@ -3,11 +3,11 @@
 <!--
 **lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Hi there 👋
+## 我的微信公众号 👋
 <!--<img align="right" alt="微信公众号" src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg">-->
-<a align="right" href="https://sm.ms/image/vRpJ4VuWLO6PFqr" target="_blank"></a>
+<a align="right" href="https://sm.ms/image/vRpJ4VuWLO6PFqr" <img src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg" >target="_blank"></a>
  
-### I'm lex
+### I'm 
 - 🌱 Java开发者 -- Java是世界上最好的语言！
 - 🌱 网络技术爱好者--逛论坛博客
 - 🌱 虚拟机爱好者--Win/Linux系统 
