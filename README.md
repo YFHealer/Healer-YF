@@ -4,7 +4,7 @@
 **lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi there 👋
-<img align="right" alt="微信公众号" src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg">
+<img align="right" alt="微信公众号" src="https://sm.ms/image/vRpJ4VuWLO6PFqr">
 
  
 ### I'm lex
