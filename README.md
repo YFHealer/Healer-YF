@@ -5,7 +5,7 @@
 -->
 # Hi there 👋
 <!--<img align="right" alt="微信公众号" src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg">-->
-<a align="right" href="https://sm.ms/image/vRpJ4VuWLO6PFqr" target="_blank"><img src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg" ></a>
+<a align="right" href="https://sm.ms/image/vRpJ4VuWLO6PFqr" target="_blank"></a>
  
 ### I'm lex
 - 🌱 Java开发者 -- Java是世界上最好的语言！
