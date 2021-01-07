@@ -4,14 +4,14 @@
 **lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi there 👋
-<img align="right" alt="微信公众号" src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg">
+<!--<img align="right" alt="微信公众号" src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg">-->
 <a align="right" href="https://sm.ms/image/vRpJ4VuWLO6PFqr" target="_blank"><img src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg" ></a>
  
 ### I'm lex
-- 🌱 Java开发者 世界之大 Java最好 哈哈哈 
-- 🌱 网络技术爱好者--逛论坛 
+- 🌱 Java开发者 -- Java是世界上最好的语言！
+- 🌱 网络技术爱好者--逛论坛博客
 - 🌱 虚拟机爱好者--Win/Linux系统 
-- 🌱 服务器搭建者--数据库 web等服务器 
+- 🌱 服务器搭建者--数据库 、web等服务器 
 - 🌱 运动健身、旅游打球爱好者~
 - 🌱 微信公众号：Healer_sd
  
