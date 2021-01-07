@@ -4,15 +4,15 @@
 **lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi there 👋
-<img align="right" alt="微信公众号" a href="https://imgchr.com/i/sZ5Bp8"/>
+<img align="right" alt="微信公众号" src="https://imgchr.com/i/sZ5Bp8"/>
 
  
 ### I'm lex
 - 🌱 Java开发者 世界之大 Java最好 哈哈哈 
 - 🌱 网络技术爱好者--逛论坛 
 - 🌱 虚拟机爱好者--Win/Linux系统 
-- 🌱 服务器搭建者--各种数据库 web等等服务器 
-- 🌱 运动健身爱好者--卧推90kg硬拉120kg深蹲100kg 
+- 🌱 服务器搭建者--数据库 web等服务器 
+- 🌱 运动健身、旅游打球爱好者~
 - 🌱 微信公众号：Healer_sd
  
 - 💬 我的简书：https://www.jianshu.com/u/2f235f331807/
