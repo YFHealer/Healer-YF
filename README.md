@@ -4,7 +4,8 @@
 **lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi there 👋
-<img align="right" alt="GIF" src="https://imgchr.com/i/sZ5Bp8" />
+<!--<img align="right" alt="GIF" src="https://imgchr.com/i/sZ5Bp8" />-->
+<a href="https://imgchr.com/i/sZ5Bp8"><img src="https://s3.ax1x.com/2021/01/07/sZ5Bp8.jpg" alt="sZ5Bp8.jpg" border="0" /></a>
  
 ### I'm lex
 - 🌱 Java开发者 世界之大 Java最好 哈哈哈 
