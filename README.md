@@ -5,7 +5,7 @@
 -->
 # Hi there 👋
 <!--<img align="right" alt="微信公众号" src="https://sm.ms/image/vRpJ4VuWLO6PFqr">-->
-<img align="right"<a href="https://sm.ms/image/vRpJ4VuWLO6PFqr" target="_blank"><img src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg" ></a>
+<a href="https://sm.ms/image/vRpJ4VuWLO6PFqr" target="_blank"><img src="https://i.loli.net/2021/01/07/vRpJ4VuWLO6PFqr.jpg" ></a>
  
 ### I'm lex
 - 🌱 Java开发者 世界之大 Java最好 哈哈哈 
